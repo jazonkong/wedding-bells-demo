@@ -2,7 +2,7 @@
 
 From Yes to I Do, all in one place.
 
-![Wedding Bells Screenshot](screenshot.png)
+[![Wedding Bells Screenshot](screenshot.png)](https://jazonkong.github.io/wedding-bells-demo/)
 
 ## Live Demo
 
